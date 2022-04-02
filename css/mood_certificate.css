@@ -1,0 +1,66 @@
+body{
+    width: 1100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.font{
+    text-align: center;
+    position: relative;
+    height: 80px;
+    width: 500px;
+    left: 0px;
+    margin: 0;
+    float: left;
+    margin: 0 20px 10px 20px;;
+    border-style: inset;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 0 20px 0 20px;
+    font-size: 20px;
+}
+
+form{
+    margin: 16px 0 0 0;
+}
+
+.block{
+    text-align: right;
+    position: relative;
+    height: 280px;
+    width: 500px;
+    left: 0px;
+    margin: 0;
+    float: left;
+    margin: 10px 20px 10px 20px;
+    border-style: inset;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 0 20px 0 20px;
+}
+
+label{
+    margin: 20px 10px 0 0;
+}
+
+.block input{
+    padding: 0;
+    width: 110px;
+    margin: 0 20px 0 0;
+}
+
+h2{
+    text-align: left;
+    margin: 20px;
+}
+
+.save{
+    margin: 10px 20px 0 20px;
+    width: 1060px;
+    box-shadow: 0.4em 0.4em 5px rgba(122,122,122,0.5);
+    height: 40px;
+    font-size: 30px;
+    letter-spacing: 30px;
+    border-radius: 0 20px 0 20px;
+}

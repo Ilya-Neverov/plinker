@@ -1,0 +1,28 @@
+.fio {
+font-size: 50px;
+transform: rotate(-7.7deg);
+color: #eaf820;
+margin-left: 570px;
+margin-top: 265px;
+}
+.ser {
+font-size: 50px;
+transform: rotate( deg);
+color: #000000;
+margin-left: 630px;
+margin-top: 410px;
+}
+.date_stop {
+font-size: 50px;
+transform: rotate(5.8deg);
+color: #030303;
+margin-left: 540px;
+margin-top: 610px;
+}
+.numder_date { 
+font-size: 30px;
+transform: rotate( deg);
+color: #000000;
+margin-left: 150px;
+margin-top: 860px;
+}

@@ -1,0 +1,41 @@
+body{
+    width: 1100px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.menu{
+    margin: 0;
+    width: 1100px;
+    height: 60px;
+    padding: 0;
+}
+
+.menu li{
+    list-style-type: none;
+    text-align: center;
+    height: 30px;
+    width: 300px;
+    left: 0px;
+    float: left;
+    margin: 10px 29px 10px 29px;
+    border-style: inset;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 0 20px 0 20px;
+    font-size: 20px;
+    padding: 6px 0 0 0;
+}
+
+.menu li a{
+    text-decoration: none;
+    height: 30px;
+    width: 100px;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+    height: 35px;
+}

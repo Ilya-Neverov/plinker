@@ -1,0 +1,42 @@
+h2{
+    margin: 10px 20px 10px 20px;
+    text-align: left;
+}
+
+p, .p{
+    margin: 10px 20px 10px 20px;
+    text-align: left;
+}
+
+table{
+    margin: 10px 20px 10px 20px;
+}
+
+.edit{
+    position: absolute;
+    list-style-type: none;
+    height: 72px;
+    width: 300px;
+    text-decoration: none;
+    float: left;
+    margin: 4px 20px 10px 220px;
+    border-style: inset;
+    border-width: 4px;
+    border-color: black;
+    border-radius: 0 20px 0 20px;
+    font-size: 20px; 
+}
+
+.info{
+    width: 1060px;
+}
+
+table.infoii{
+    margin: 0 0 0 0;
+    border-width: 4px;
+}
+
+td{
+    padding: 0 1px 0 1px;
+    border-width: 1px;
+}

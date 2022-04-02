@@ -1,0 +1,11 @@
+@font-face {
+    font-family: font;
+    src: url(../font/font.ttf);
+}
+.text, li {
+    font-family: font;
+}
+   
+   
+   
+   
